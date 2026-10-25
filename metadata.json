@@ -1,0 +1,8 @@
+{
+  "name": "ONYX & INK — Haute Tattoo Atelier",
+  "description": "Estúdio de tatuagem autoral e alta precisão. Especialistas em Fine Line, Blackwork, Micro-realismo e Grandes Projetos em ambiente privativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
